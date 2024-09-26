@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ArkitDoushiQi
+
+  Created by Louis DUFOUR on 28/05/2024.
+  
+*/
+
+"ParametersTitle" = "Paramètres";
+"DarkModeDescription" = "Mode sombre";
+"LanguagePickerTitle" = "Langue";
+"DOUSHIQI" = "DOUSHIQI";
+"GAME" = "JEU";
+"Play" = "Jouer";
+"Registered Games" = "Parties Enregistrees";
+"Choose Language" = "Choisissez la Langue";
+"French" = "Francais";
+"English" = "Anglais";
+"Cancel" = "Annuler";
+"Paramètres de partie" = "Paramètres de partie";
+"Sélectionne le type de partie :" = "Sélectionne le type de partie :";
+"Joueur contre Joueur" = "Joueur contre Joueur";
+"Joueur contre IA" = "Joueur contre IA";
+"Sélectionne les règles :" = "Sélectionne les règles :";
+"Simplifié" = "Simplifié";
+"Normal" = "Normal";
+"Sélectionne une IA :" = "Sélectionne une IA :";
+"IA Random" = "IA Random";
+"IA Facile" = "IA Facile";
+"IA Intermédiaire" = "IA Intermédiaire";
+"changer l'avatar du joueur 1" = "changer l'avatar du joueur 1";
+"changer l'avatar du joueur 2" = "changer l'avatar du joueur 2";
+"Nom du Joueur 1" = "Nom du Joueur 1";
+"Nom du Joueur 2" = "Nom du Joueur 2";
+"Lancer la partie" = "Lancer la partie";
+"Changer d'avatar" = "Changer d'avatar";
+"Liste des Parties" = "Liste des Parties";
+"Liste des Parties" = "Liste des Parties";
+"Victoire" = "Victoire";
+"Défaite" = "Défaite";
